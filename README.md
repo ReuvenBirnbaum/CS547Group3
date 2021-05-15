@@ -1,6 +1,6 @@
 # CS 547 Group 3 Project
 
-Our implamentation of  [Show and Tell, A Neural Imaging Caption Generator](https://arxiv.org/abs/1411.4555)
+Our implementation of  [Show and Tell, A Neural Imaging Caption Generator](https://arxiv.org/abs/1411.4555)
 
 
 
